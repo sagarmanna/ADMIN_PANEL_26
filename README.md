@@ -1,6 +1,6 @@
 
 
-# Admin Panel – DummyJSON
+# Admin Panel 
 
 This project is a modern Admin Dashboard built using:
 
